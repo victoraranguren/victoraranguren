@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**victoraranguren/victoraranguren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hello i’m Víctor Aranguren, Frontend Web Developer.
+# Hello i'm Víctor Aranguren, Frontend Web Developer.
 
 Skills:
 
@@ -12,4 +7,3 @@ Skills:
 - GIT.
 - SASS.
 - Vue.
--->

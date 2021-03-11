@@ -1,4 +1,4 @@
-# Hello i'm Víctor Aranguren, Frontend Web Developer.
+# Hello i'm Víctor Aranguren, Web Developer.
 
 Skills:
 
@@ -7,3 +7,4 @@ Skills:
 - GIT.
 - SASS.
 - Vue.
+- Nodejs

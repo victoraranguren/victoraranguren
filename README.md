@@ -1,5 +1,6 @@
 # 💫 About Me:
-Soy Desarrollador Frontend Blockchain, formo parte de Solana Allastars Venezuela como Colaborador y también de IsoVerse Project
+Solana Frontend Developer
+Solana Allstars Venezuela Contributor specializing in creating educational content on Solana blockchain development.
 
 
 ## 🌐 Socials:

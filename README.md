@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="solana_banner.png" alt="Victor Aranguren - Solana Developer Banner" width="100%">
-</p>
-
 <h1 align="center">👋 ¡Hola, soy Victor Aranguren!</h1>
 
 <p align="center">

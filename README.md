@@ -22,7 +22,7 @@ Programador Full-Stack & Blockchain Developer con más de 8 años de experiencia
 * 💻 **Full-Stack & Blockchain Developer:** Construyo aplicaciones descentralizadas y servicios de alto rendimiento utilizando Rust, Anchor, Next.js, React y TypeScript en el ecosistema de Solana.
 * 🏢 **CTO & Co-Fundador de Cubico:** Lidero la arquitectura técnica y contratos inteligentes (RWA / Tokenización) en Solana.
 * 🚀 **Fundador de Tuy Tech:** Impulso el desarrollo de comunidades tecnológicas, eventos y formación para descubrir y potenciar el talento dev en los Valles del Tuy.
-* 🎓 **Educador Web3:** Facilito la formación y el onboarding de nuevos desarrolladores al ecosistema de tecnología descentralizada.
+* 🎓 **Educador Web3:** Facilito la formación y el onboarding de nuevos desarrolladores al ecosistema Blockchain.
 
 ---
 
